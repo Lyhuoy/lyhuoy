@@ -7,8 +7,6 @@
 
 - 🌱 I’m currently learning **Dart, Flutter, Swift**
 
-- 👯 I’m looking to collaborate on [Cambodia Travel Guide](https://github.com/Lyhuoy/cambodia_travel_guide)
-
 - 🤝 I’m looking for help with **experience developer to help guidance, advice and code review**
 
 - 📝 I regularly read articles on [dev.to](dev.to)
