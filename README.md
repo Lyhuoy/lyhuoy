@@ -11,6 +11,8 @@
 
 - 💼 I'm also looking for new opportunity to join
 
+- 🧑🏻‍💻 I always keep up with new techonology
+
 - 📝 I regularly read articles on [dev.to](dev.to)
 
 - 💬 Ask me about **React Native**
