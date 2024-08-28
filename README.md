@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Travel Guide app using Flutter**
 
-- 🌱 I’m currently learning **Dart, Flutter, Swift**
+- 🌱 I’m currently learning **Dart, Flutter**
 
 - 🤝 I’m looking for help with **experience developer to help guidance, advice and code review**
 
