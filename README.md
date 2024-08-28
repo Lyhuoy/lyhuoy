@@ -9,7 +9,7 @@
 
 - 🤝 I’m looking for help with **experience developer to help guidance, advice and code review**
 
-- 💼 I'm also looking for new opportunity to join
+- 💼 Let's work together bring your idea into life
 
 - 🧑🏻‍💻 I always keep up with new techonology
 
