@@ -33,7 +33,6 @@
 
 <p>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=lyhuoy&show_icons=true&locale=en&layout=compact" alt="lyhuoy" />
-  [![lyhuoy's GitHub | Stats](https://stats.quira.sh/lyhuoy/github?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=lyhuoy) 
 </p> 
 
-
+  [![lyhuoy's GitHub | Stats](https://stats.quira.sh/lyhuoy/github?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=lyhuoy) 
