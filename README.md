@@ -9,6 +9,8 @@
 
 - 🤝 I’m looking for help with **experience developer to help guidance, advice and code review**
 
+- 💼 I'm also looking for new opportunity to join
+
 - 📝 I regularly read articles on [dev.to](dev.to)
 
 - 💬 Ask me about **React Native**
