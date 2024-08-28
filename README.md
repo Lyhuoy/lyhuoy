@@ -15,7 +15,7 @@
 
 - 📝 I regularly read articles on [dev.to](dev.to)
 
-- 💬 Ask me about **React Native**
+- 💬 Ask me about **React Native, Expo**
 
 - 📫 How to reach me **lyhuoy.in@gmail.com**
 
