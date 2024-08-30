@@ -13,7 +13,7 @@
 
 - 🧑🏻‍💻 I always keep up with new techonology
 
-- 📝 I regularly read articles on [dev.to](dev.to), [medium.com](medium.com), blogs and articles related to technology.
+- 📝 I regularly read articles on [dev.to](dev.to), [medium.com](medium.com).
 
 - 💬 Ask me about **React Native, Expo**
 
