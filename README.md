@@ -7,8 +7,6 @@
 
 - 🌱 I’m currently learning **Dart, Flutter**
 
-- 🤝 I’m looking for help with **experience developer to help guidance, advice and code review**
-
 - 💼 Let's work together bring your idea into life
 
 - 🧑🏻‍💻 I always keep up with new techonology
