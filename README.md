@@ -3,11 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lyhuoy&label=Profile%20views&color=0e75b6&style=flat" alt="lyhuoy" /> </p>
 
-- 🔭 I’m currently working on **Travel Guide app using Flutter**
-
 - 🌱 I’m currently learning **Dart, Flutter**
-
-- 💼 Let's work together bring your idea into life
 
 - 🧑🏻‍💻 I always keep up with new techonology
 
