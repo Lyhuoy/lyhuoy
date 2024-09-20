@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lyhuoy&label=Profile%20views&color=0e75b6&style=flat" alt="lyhuoy" /> </p>
 
-- 🌱 I’m currently learning **Dart, Flutter**
+- 🧑‍💻 I’m always looking to collaborate on open-source projects
 
 - 🧑🏻‍💻 I always keep up with new techonology
 
