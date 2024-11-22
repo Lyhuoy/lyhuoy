@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Lyhuoy</h1>
-<h3 align="center">A passionate Frontend Developer specification in React Native and Flutter</h3>
+<h3 align="center">A passionate Mobile Developer specification in React Native and Flutter</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lyhuoy&label=Profile%20views&color=0e75b6&style=flat" alt="lyhuoy" /> </p>
 
