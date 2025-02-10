@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **React Native, Expo**
 
-- 📫 How to reach me **lyhuoy.in@gmail.com**
+- 📫 How to reach me **lyhuoyin@gmail.com**
 
 - ⚡ Fun fact **I think I am funny**
 
